@@ -1,5 +1,9 @@
 # Perceptron
 
+This repository contain; 
+Datasets- A folder with all the datasets I have used for training in this proyect.  
+Training&Tests- Which contains diferent scripts to evaluate different parameters of the perceptro. 
+Main folder- The script for the perceptron, also linmach.py is a script to obtain the weights matrix, confus.py is a script to calculate the error, and lastly ocr.py is a script to show the images that containc the OCR dataset. 
 
 Test of Perceptron with diferent parameters->
 
