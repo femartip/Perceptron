@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import numpy as np
 import matplotlib.pyplot as plt
+
 data=np.loadtxt('OCR_14x14');
 N,L=data.shape; D=L-1;
 I=np.reshape(data[1,:D],(14,14));
